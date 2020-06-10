@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Spread love and good cheer.
 Use the left arrow to go back!
